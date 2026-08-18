@@ -1,0 +1,2 @@
+total_engines,average_predicted_RUL,average_health_score,average_anomaly_score,low_risk,medium_risk,high_risk,critical_risk,continue_monitoring,monitor_closely,schedule_maintenance,immediate_inspection
+707,92.29,60.14,51.92,259,135,171,142,259,135,171,142

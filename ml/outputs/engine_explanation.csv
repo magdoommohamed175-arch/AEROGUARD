@@ -1,0 +1,11 @@
+feature,feature_value,shap_value,absolute_impact
+cycle,184.0,-35.14448,35.14448
+sensor_4_rolling_mean,1421.462,-15.531688,15.531688
+sensor_15_rolling_mean,8.4985,-14.744868,14.744868
+sensor_11_rolling_mean,48.008,-12.8994255,12.8994255
+sensor_2_rolling_mean,643.4979999999999,-5.626887,5.626887
+sensor_14_rolling_mean,8140.1179999999995,3.1440458,3.1440458
+sensor_7_rolling_mean,551.786,-2.5778847,2.5778847
+sensor_9_rolling_mean,9062.38,2.4211082,2.4211082
+sensor_12_rolling_mean,520.452,-2.3770235,2.3770235
+sensor_21_rolling_mean,23.12214,-1.3858055,1.3858055
