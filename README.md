@@ -405,3 +405,5 @@ Git — version control
 GitHub — source-code hosting
 Jupyter Notebook — ML experimentation and analysis
 VS Code — development environment
+## Contributors
+- Magdoom Mohammad
